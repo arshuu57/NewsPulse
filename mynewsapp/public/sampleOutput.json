@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Fears for Gazans as aid groups halt work over deadly Israeli strike",
+    "description": "Aid workers say they cannot operate safely after Israel's strike on World Central Kitchen's convoy.",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-68728378",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1721B/production/_133074749_mediaitem133074239.jpg",
+    "publishedAt": "2024-04-04T08:52:15.9334023Z",
+    "content": "Many Palestinians in the Gaza Strip will be wondering how they are going to feed their families after World Central Kitchen (WCK) paused its operations in response to the killing of seven of its aid … [+8136 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Climate change: Logging decline after political change in Brazil, Colombia",
+    "description": "Brazil and Colombia curbed logging in 2023, but other countries wiped out many of the gains.",
+    "url": "https://www.bbc.co.uk/news/science-environment-68716874",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8C61/production/_133073953_colombia-index-getty.jpg",
+    "publishedAt": "2024-04-04T08:52:14.6524718Z",
+    "content": "The number of trees lost in tropical forests in Brazil and Colombia fell dramatically last year because of political action, a new analysis finds.\r\nResearchers say new leaders have prioritised the en… [+4262 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "How might Iran seek to hurt Israel after general's killing?",
+    "description": "Iran blames Israel for the strike in Syria but its options for retaliation may be limited, experts say.",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-68724691",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/239D/production/_133071190_0d2659bd4634e8dbe99870911970de88b8d9c4f90_0_4032_29021000x720.jpg",
+    "publishedAt": "2024-04-04T08:07:21.74593Z",
+    "content": "Iran has vowed to respond to Monday's air strike on its consulate in Damascus - but what capacity does Iran have to hurt Israel and what form might retaliation take?\r\nThirteen people were killed incl… [+5660 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Botswana threatens to send 20,000 elephants to Germany",
+    "description": "Germany wants tougher limits on hunting the animals, but Botswana says it has too many of them.",
+    "url": "https://www.bbc.co.uk/news/world-68715164",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D3FA/production/_133066245_gettyimages-1760556586.jpg",
+    "publishedAt": "2024-04-04T07:37:15.7934212Z",
+    "content": "The president of Botswana has threatened to send 20,000 elephants to Germany in a dispute over conservation.\r\nEarlier this year, Germany's environment ministry suggested there should be stricter limi… [+3283 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Russia’s neighbours urge Nato allies to bring back military service",
+    "description": "Following Vladimir Putin's full-scale invasion of Ukraine, conscription is being rebooted and expanded across Europe.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68728096",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1113B/production/_133074996_img_2734.jpg",
+    "publishedAt": "2024-04-04T06:37:15.6838141Z",
+    "content": "Rain drips down the glasses of new recruit Toivo Saabas, tracing the contours of the green and black face paint that completes his camouflage. \r\nLying on the saturated ground, and peering through the… [+8329 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel minister denies Gaza aid convoy air strike was deliberate",
+    "description": "Nir Barkat tells the BBC claims Israeli forces deliberately targeted aid workers are 'nonsense'.",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-68729064",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C31B/production/_133074994_carepa.jpg",
+    "publishedAt": "2024-04-04T06:22:21.8249Z",
+    "content": "Media caption, Watch: Video shows World Central Kitchen vehicles destroyed in Gaza air strike\r\nAn Israeli cabinet minister has denied claims Israeli forces deliberately targeted seven World Central K… [+4452 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Amazon: Tech giant cuts hundreds of jobs in cloud computing unit",
+    "description": "Amazon Web Services represents 14% of the firm's overall revenue but the firm is shifting strategies.",
+    "url": "https://www.bbc.co.uk/news/business-68729318",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BA83/production/_133074774_gettyimages-1808364407.jpg",
+    "publishedAt": "2024-04-04T05:52:17.6061838Z",
+    "content": "Technology giant Amazon has announced job cuts affecting hundreds of staff at its cloud computing business.\r\nAmazon Web Services (AWS) has been growing and now represents 14% of Amazon's total revenu… [+1923 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Rashee Rice: Super Bowl champion admits role in Texas hit-and-run",
+    "description": "Rashee Rice of the Kansas City Chiefs reportedly fled the scene of a high-speed six-car collision.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68708641",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1339B/production/_133074787_gettyimages-1689507238.jpg",
+    "publishedAt": "2024-04-04T02:52:17.6685875Z",
+    "content": "NFL star Rashee Rice has apologised for his role in a hit-and-run crash on Saturday that left two people injured. \r\n\"I take full responsibility for my part in this matter and will continue to co-oper… [+2486 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Taiwan wakes up to aftermath of worst earthquake in 25 years",
+    "description": "More than 90 people are still understood to be trapped in collapsed tunnels and on roads.",
+    "url": "https://www.bbc.co.uk/news/world-asia-68729048",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3D83/production/_133074751_c2b870408b37e396d24d3f6acd2ef6cf469d8e42.jpg",
+    "publishedAt": "2024-04-04T02:37:15.3393666Z",
+    "content": "The people of Taiwan have woken up to the aftermath of its worst earthquake in a quarter of a century.\r\nRescue efforts continued on Thursday after a 7.4 magnitude earthquake struck the island's easte… [+3508 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Truck crash spills live salmon into wrong Oregon river",
+    "description": "The fish were due to be released into another waterway, but now the salmon population of a creek has been boosted instead.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68728348",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BBAF/production/_133074084_040224_fishtankeraccident.jpg",
+    "publishedAt": "2024-04-03T23:07:18.8087603Z",
+    "content": "A truck carrying 102,000 live salmon in the US state of Oregon crashed last week on a creek bed, inadvertently releasing thousands of the juvenile fish into the water.\r\nThe young Chinook, also known … [+2229 chars]"
+    }
+    ]
+    }
